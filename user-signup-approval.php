@@ -3,7 +3,7 @@
 Plugin Name: User Signup Approval
 Description: Custom plugin for user signup with admin approval.
 Version: 1.0
-Author: SMK
+Author: Ahsan
 */
 
 // Security check to prevent direct access
